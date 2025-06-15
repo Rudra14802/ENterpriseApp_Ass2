@@ -25,6 +25,3 @@ This project is a simple **Library Management System** built using **Spring Boot
 - Lombok (optional, not used here)
 
 ---
-
-## 📁 Project Structure
-
